@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ughtolia.github.io/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/app/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/assets/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/css/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/data/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/includes/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/item/sitemap.ughtolia.gz
+Sitemap: https://ughtolia.github.io/src/sitemap.ughtolia.gz
